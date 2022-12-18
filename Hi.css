@@ -5,10 +5,10 @@ body{
 .button{
   position: absolute;
   font-family: Comic Sans MS;
-  font-size: 50px;
+  font-size: 100px;
   text-decoration: none;
   background-color: #F5A9D0;
   border-radius: 5px;
-  left: 70px;
+  left: 300px;
   bottom: 300px;
 }
