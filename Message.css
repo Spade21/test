@@ -1,0 +1,16 @@
+body{
+  background-color: #F781F3;
+}
+
+img{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 20%;
+}
+
+.back{
+  color: #2E2EFE;
+  background-color: #E0ECF8;
+  border-radius: 2px;
+}

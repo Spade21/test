@@ -1,0 +1,14 @@
+body{
+  background-color: #F2F5A9;
+}
+
+.button{
+  position: absolute;
+  font-family: Comic Sans MS;
+  font-size: 50px;
+  text-decoration: none;
+  background-color: #F5A9D0;
+  border-radius: 5px;
+  left: 70px;
+  bottom: 300px;
+}
